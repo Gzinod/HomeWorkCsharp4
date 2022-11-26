@@ -1,0 +1,15 @@
+C:\Games\Study\HOMEWORK@\obj\Debug\net6.0\HOMEWORK@.csproj.AssemblyReference.cache
+C:\Games\Study\HOMEWORK@\obj\Debug\net6.0\HOMEWORK@.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\Study\HOMEWORK@\obj\Debug\net6.0\HOMEWORK@.AssemblyInfoInputs.cache
+C:\Games\Study\HOMEWORK@\obj\Debug\net6.0\HOMEWORK@.AssemblyInfo.cs
+C:\Games\Study\HOMEWORK@\obj\Debug\net6.0\HOMEWORK@.csproj.CoreCompileInputs.cache
+C:\Games\Study\HOMEWORK@\bin\Debug\net6.0\HOMEWORK@.exe
+C:\Games\Study\HOMEWORK@\bin\Debug\net6.0\HOMEWORK@.deps.json
+C:\Games\Study\HOMEWORK@\bin\Debug\net6.0\HOMEWORK@.runtimeconfig.json
+C:\Games\Study\HOMEWORK@\bin\Debug\net6.0\HOMEWORK@.dll
+C:\Games\Study\HOMEWORK@\bin\Debug\net6.0\HOMEWORK@.pdb
+C:\Games\Study\HOMEWORK@\obj\Debug\net6.0\HOMEWORK@.dll
+C:\Games\Study\HOMEWORK@\obj\Debug\net6.0\refint\HOMEWORK@.dll
+C:\Games\Study\HOMEWORK@\obj\Debug\net6.0\HOMEWORK@.pdb
+C:\Games\Study\HOMEWORK@\obj\Debug\net6.0\HOMEWORK@.genruntimeconfig.cache
+C:\Games\Study\HOMEWORK@\obj\Debug\net6.0\ref\HOMEWORK@.dll
