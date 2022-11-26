@@ -1,0 +1,15 @@
+C:\Games\Study\HOMEWORK@\HomeTask27\obj\Debug\net6.0\HomeTask27.csproj.AssemblyReference.cache
+C:\Games\Study\HOMEWORK@\HomeTask27\obj\Debug\net6.0\HomeTask27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\Study\HOMEWORK@\HomeTask27\obj\Debug\net6.0\HomeTask27.AssemblyInfoInputs.cache
+C:\Games\Study\HOMEWORK@\HomeTask27\obj\Debug\net6.0\HomeTask27.AssemblyInfo.cs
+C:\Games\Study\HOMEWORK@\HomeTask27\obj\Debug\net6.0\HomeTask27.csproj.CoreCompileInputs.cache
+C:\Games\Study\HOMEWORK@\HomeTask27\bin\Debug\net6.0\HomeTask27.exe
+C:\Games\Study\HOMEWORK@\HomeTask27\bin\Debug\net6.0\HomeTask27.deps.json
+C:\Games\Study\HOMEWORK@\HomeTask27\bin\Debug\net6.0\HomeTask27.runtimeconfig.json
+C:\Games\Study\HOMEWORK@\HomeTask27\bin\Debug\net6.0\HomeTask27.dll
+C:\Games\Study\HOMEWORK@\HomeTask27\bin\Debug\net6.0\HomeTask27.pdb
+C:\Games\Study\HOMEWORK@\HomeTask27\obj\Debug\net6.0\HomeTask27.dll
+C:\Games\Study\HOMEWORK@\HomeTask27\obj\Debug\net6.0\refint\HomeTask27.dll
+C:\Games\Study\HOMEWORK@\HomeTask27\obj\Debug\net6.0\HomeTask27.pdb
+C:\Games\Study\HOMEWORK@\HomeTask27\obj\Debug\net6.0\HomeTask27.genruntimeconfig.cache
+C:\Games\Study\HOMEWORK@\HomeTask27\obj\Debug\net6.0\ref\HomeTask27.dll
