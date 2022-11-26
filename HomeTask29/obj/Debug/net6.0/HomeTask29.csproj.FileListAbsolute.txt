@@ -1,0 +1,15 @@
+C:\Games\Study\HOMEWORK@\HomeTask29\obj\Debug\net6.0\HomeTask29.csproj.AssemblyReference.cache
+C:\Games\Study\HOMEWORK@\HomeTask29\obj\Debug\net6.0\HomeTask29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\Study\HOMEWORK@\HomeTask29\obj\Debug\net6.0\HomeTask29.AssemblyInfoInputs.cache
+C:\Games\Study\HOMEWORK@\HomeTask29\obj\Debug\net6.0\HomeTask29.AssemblyInfo.cs
+C:\Games\Study\HOMEWORK@\HomeTask29\obj\Debug\net6.0\HomeTask29.csproj.CoreCompileInputs.cache
+C:\Games\Study\HOMEWORK@\HomeTask29\bin\Debug\net6.0\HomeTask29.exe
+C:\Games\Study\HOMEWORK@\HomeTask29\bin\Debug\net6.0\HomeTask29.deps.json
+C:\Games\Study\HOMEWORK@\HomeTask29\bin\Debug\net6.0\HomeTask29.runtimeconfig.json
+C:\Games\Study\HOMEWORK@\HomeTask29\bin\Debug\net6.0\HomeTask29.dll
+C:\Games\Study\HOMEWORK@\HomeTask29\bin\Debug\net6.0\HomeTask29.pdb
+C:\Games\Study\HOMEWORK@\HomeTask29\obj\Debug\net6.0\HomeTask29.dll
+C:\Games\Study\HOMEWORK@\HomeTask29\obj\Debug\net6.0\refint\HomeTask29.dll
+C:\Games\Study\HOMEWORK@\HomeTask29\obj\Debug\net6.0\HomeTask29.pdb
+C:\Games\Study\HOMEWORK@\HomeTask29\obj\Debug\net6.0\HomeTask29.genruntimeconfig.cache
+C:\Games\Study\HOMEWORK@\HomeTask29\obj\Debug\net6.0\ref\HomeTask29.dll
