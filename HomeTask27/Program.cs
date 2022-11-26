@@ -9,7 +9,8 @@
 System.Console.WriteLine("Num");
 var num = Convert.ToInt32(Console.ReadLine());
 
-int GetSumm(int (num))
+int GetLength(int num)
 {
-     
+     for(int i=0;num%10!=0;i++)
+     return i;
 }
